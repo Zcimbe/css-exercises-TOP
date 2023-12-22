@@ -1,0 +1,3 @@
+I finished my product and I looked through it, it all worked and looked like the desired result, but when I actually checked it.?
+it turns out that I accidently read a line wrong and boldened the 3rd element, but I also looked over the fact that I couldve added another class or id to minimise space and storage.
+Overall I'd say I did a solid 8/10.
