@@ -1,0 +1,1 @@
+Descendant combinators was very easy, you just hvae to do a chaining selector but add a space. Very easy.
