@@ -1,0 +1,1 @@
+I thought chaining was quite confusing but its really simple, its just making unique values to something which may sometimes not be unique if listed normally
